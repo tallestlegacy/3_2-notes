@@ -134,6 +134,8 @@ A researcher should prepare a report for which he has done is his work. He must 
 
 After the preparation of report, the last step in business research process contains bibliography, references, appendices, index and maps or charts for illustration. For this purpose the information should be clear.
 
+###### Lecture 3
+
 ### Theoretical vs Conceptual Framework
 
 The **theoretical framework** is a structure that summarises concepts and theories, which you develop from previously tested and published knowledge which you synthesize to help you have a theoretical background, or basis for your data analysis and interpretation of the meaning contained in your research data.
