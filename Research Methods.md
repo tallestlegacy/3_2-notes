@@ -24,15 +24,15 @@ Research methods are rules for getting the knowledge; rules that are clear ti ot
 
 ### Research Methods vs Methodology
 
-**Research methods** may be understood as all those methods/techniques that are use for conduction of research.
-Research Methods or techniques thus refer to the methods teh researcher uses in performing research operations.
+**Research methods** may be understood as all those methods techniques that are use for conduction of research.
+Research Methods or techniques thus refer to the methods the researcher uses in performing research operations.
 
 **Research methodology** is a way to _systematically solve the research problem_. It may be understood as the science of studying how research is done scientifically.
 
 ### Approaches of Research
 
 1. **Quantitative research** is base in the measurement of quantity or amount. It is applicable to phenomena that can be expressed in terms of quantity.
-2. **Quantitative research** on the other hand, is concerned with qualitative phenomena i.e phenomena relating or involving quality or kind. For instance, when we are interested in investigating the reasons for human behavior.
+2. **Quantitative research** on the other hand, is concerned with qualitative phenomena i.e phenomena relating or involving quality or kind. For instance, when we are interested in investigating the reasons for human behaviour.
 3. **Inferential approach** - The purpose of the inferential approach to research is to form a data base from which to infer characteristics or relationships of population.
 4. **Experimental Approach** to a project involves several items, including the facility used, the model itself, the test conditions where the model is tested, and corrections that are applied to the data.
 5. **Simulation Approach** - A Simulation refers to the imitation of real world activities and processes in a safe environment. It has an advantage of allowing learners to _reset_ the learning environment.
@@ -177,4 +177,91 @@ _Hypo_ means a tentative or subject to verification and _Thesis_ means statement
 2. It offers a basis in establishing the specifics wt to study for and may provide possible solutions to the problem.
 3. Each hypothesis may lead to the formulation of another hypothesis.
 4. A preliminary hypothesis may take the shape of final hypothesis.
-5. Each hypothesis provides the investigator with the definite 
+5. Each hypothesis provides the investigator with the definite statement which may be objectively tested and accepted or rejected and leads for interpreting results and drawing conclusions that is related to original purpose.
+
+#### Types of Hypothesis
+
+| CMP                      | Null Hypothesis                                                                           | Alternative Hypothesis                                                                                  |
+| ------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Meaning                  | A null Hypothesis is a statement, in which there is no relationship between two variables | An Alternative hypothesis in which there is some statistical significance between two ensured phenomena |
+| Represents               | No observed effects                                                                       | Some observed effects                                                                                   |
+| What is it?              | It is wat a researcher is trying to disprove                                              | It is what a researcher is trying to prove                                                              |
+| Acceptance               | No changes in opinion or actions                                                          | Changes in opinion or action                                                                            |
+| Testing                  | Indirect and implicit                                                                     | Direct and explicit                                                                                     |
+| Observations             | result of chance                                                                          | result of real effect                                                                                   |
+| Denoted                  | H-zero H<sub>0</sub>                                                                      | H-one H<sub>1</sub>                                                                                     |
+| Mathematical formulation | Equal sign                                                                                | Unequal sign                                                                                            |
+
+_What is the relationship between advertising expenditure and income_  
+A hypothesis dealing with the same question is
+
+- There is positive relationship between advertising expenditure and income. (H<sub>1</sub>)
+- There is NO relationship between advertising expenditure and income (H<sub>0</sub>)
+
+## Sampling
+
+- Learn the reasons of sampling
+- Develop an understanding about the different sampling methods
+- Distinguish probability & non-probability sampling
+- Discuss the relative advantages and limitations of different sampling methods
+
+> A **sample** is "a smaller (but hopefully representative) collection of units from a population used to determine truths about said populations" (Field 2005)
+
+1. Why Sample?
+
+- Resources (time, money) and workload
+- Gives result with known accuracy that can be calculated mathematically
+
+The **sampling frame** is a list from which the potential respondents are drawn
+
+- Registrar's office
+- Class rosters
+- Must assess sampling frame errors
+
+What is the population of interest?
+
+- To whom do you want to generalize your results?
+  - All Doctors
+  - School children
+  - Women ages 15-45 years etc.
+
+Can you sample the entire population?
+
+3 factors that influence sample representative-ness
+
+- Sampling procedure
+- Sample size
+- Participation (response)
+
+When might you sample the entire population?
+
+- When your population is very small
+- When you have extensive resources
+- When you don't expect a very high response
+
+The sampling process comprises several stages
+
+1. Defining the population of concern
+2. Specifying a _sampling frame_, a _set_ of items or events possible to measure
+3. Specifying a _sampling method_ for selecting items or events from the frame
+4. Determining the sample size
+5. Implementing the sampling plan
+6. Sampling and data collecting
+7. Reviewing the sampling process
+
+### Population Definition
+
+A population can be defined as including all people or items with the characteristic/features one wishes to understand
+Because there is very rarely enough time or money to gather information from everyone or everything in a population, the goal becomes finding the representative sample or subset of that ...
+
+### Sampling Frame
+
+_sampling_ frame which has the property that we can identify every single element and include in our sample.
+
+- The sampling frame must be representative of the population.
+
+### Probability Sampling
+
+A **probability sampling** scheme is one in which every unit in the population has a chance (greater than zero) of being selected in the sample, and this probability can be accurately determined.
+
+When every element in the population does have the same probability of selection, this is known as _equal probability of selection_ EPS design. Such design are also referred as _self-weighting_ because all the sampled units are given the same weight.
