@@ -4,9 +4,9 @@
 
 ## Introduction to Research Methods
 
-Research is a systematic and methodological approach hto creating knowledge.  
+`Research` is a systematic and methodological approach hto creating knowledge.  
 It structures the way we get knowledge, so we have more certainty about the result.  
-Research methods are rules for getting the knowledge; rules that are clear ti others so they can be assessed and judged.
+`Research methods` are rules for getting the knowledge; rules that are clear ti others so they can be assessed and judged.
 
 ### Sources of Knowledge other than research
 
@@ -24,15 +24,15 @@ Research methods are rules for getting the knowledge; rules that are clear ti ot
 
 ### Research Methods vs Methodology
 
-**Research methods** may be understood as all those methods techniques that are use for conduction of research.
+`Research methods` may be understood as all those methods techniques that are use for conduction of research.
 Research Methods or techniques thus refer to the methods the researcher uses in performing research operations.
 
-**Research methodology** is a way to _systematically solve the research problem_. It may be understood as the science of studying how research is done scientifically.
+`Research methodology` is a way to _systematically solve the research problem_. It may be understood as the science of studying how research is done scientifically.
 
 ### Approaches of Research
 
 1. **Quantitative research** is base in the measurement of quantity or amount. It is applicable to phenomena that can be expressed in terms of quantity.
-2. **Quantitative research** on the other hand, is concerned with qualitative phenomena i.e phenomena relating or involving quality or kind. For instance, when we are interested in investigating the reasons for human behaviour.
+2. **Qualitative research** on the other hand, is concerned with qualitative phenomena i.e phenomena relating or involving quality or kind. For instance, when we are interested in investigating the reasons for human behaviour.
 3. **Inferential approach** - The purpose of the inferential approach to research is to form a data base from which to infer characteristics or relationships of population.
 4. **Experimental Approach** to a project involves several items, including the facility used, the model itself, the test conditions where the model is tested, and corrections that are applied to the data.
 5. **Simulation Approach** - A Simulation refers to the imitation of real world activities and processes in a safe environment. It has an advantage of allowing learners to _reset_ the learning environment.
@@ -138,9 +138,9 @@ After the preparation of report, the last step in business research process cont
 
 ### Theoretical vs Conceptual Framework
 
-The **theoretical framework** is a structure that summarises concepts and theories, which you develop from previously tested and published knowledge which you synthesize to help you have a theoretical background, or basis for your data analysis and interpretation of the meaning contained in your research data.
+The `theoretical framework` is a structure that summarises concepts and theories, which you develop from previously tested and published knowledge which you synthesize to help you have a theoretical background, or basis for your data analysis and interpretation of the meaning contained in your research data.
 
-The **conceptual framework** comprises your thoughts on identification of the research topic, the problem to be investigated, the questions to be asked, the literature to be reviewed, the theories to be applied, the methodology you will use, the methods, procedures and instruments, the data analysis and interpretation of findings, recommendations and conclusions you will make.
+The `conceptual framework` comprises your thoughts on identification of the research topic, the problem to be investigated, the questions to be asked, the literature to be reviewed, the theories to be applied, the methodology you will use, the methods, procedures and instruments, the data analysis and interpretation of findings, recommendations and conclusions you will make.
 
 ### Variables in Research
 
@@ -214,7 +214,7 @@ A hypothesis dealing with the same question is
 - Resources (time, money) and workload
 - Gives result with known accuracy that can be calculated mathematically
 
-The **sampling frame** is a list from which the potential respondents are drawn
+The `sampling frame` is a list from which the potential respondents are drawn
 
 - Registrar's office
 - Class rosters
@@ -264,6 +264,174 @@ _sampling_ frame which has the property that we can identify every single elemen
 
 ### Probability Sampling
 
-A **probability sampling** scheme is one in which every unit in the population has a chance (greater than zero) of being selected in the sample, and this probability can be accurately determined.
+A `probability sampling` scheme is one in which every unit in the population has a chance (greater than zero) of being selected in the sample, and this probability can be accurately determined.
 
 When every element in the population does have the same probability of selection, this is known as _equal probability of selection_ EPS design. Such design are also referred as _self-weighting_ because all the sampled units are given the same weight.
+
+###### Lecture 4
+
+#### Simple Random Sampling
+
+Applicable when the given population is small, homogenous and readily available.
+All subsets of the frame are given an equal probability. Each element of the frame thus has an equal probability of selection.  
+It provides for the greatest number of possible samples. This is done by assigning a number to each unit in the sampling frame.
+A table of random number or lottery system is used to determine which units are selected.
+
+Estimates are easy to calculate  
+Simple random sampling is always an EPS design, but not all EPS designs are simple random sampling.
+
+**Disadvantages**
+
+- If sampling range is large, the method is impractical.
+- Minority subgroups fo interest in population may not be present in sample in sufficient numbers of study.
+
+#### Systematic Sampling
+
+`Systematic sampling` relies on arranging the target population according to some ordering scheme and then selecting elements at regular intervals through that ordering list.  
+Systematic sampling involves a random start and then proceeds with the selection of every kth element from then onwards. In this case,
+
+$k=(\frac{population\ size}{sample\ size})$
+
+It is important that the starting point is not automatically the first in the list, but it is instead randomly chosen from within the first to the kth element in the list.
+
+A simple example would be select every 10^th^ name from teh telephone directory (an "every 10^th^ sample", also referred to as 'sampling with a skip of 10').
+
+As described above, systematic sampling is an EPS method because all elements have the same probability of selection (in the example, one in ten). It is not 'simple random sampling' because different subsets of the same size have different selection probabilities  
+eg. the set $\{4,14,24,...,994\}$ has a one-in-10 probability of selection, but the set $\{4,13,24,34\}$.
+
+**Advantages**
+
+- Sampling easy to select
+- Suitable sampling frame can be identified easily
+- Sample evenly spread over entire reference population
+
+**Disadvantages**
+
+- Sample may be biased if hidden periodically in population coincides with that of selection.
+- Difficult to access precision of estimate from one survey.
+
+#### Stratified Sampling
+
+Where the population embraces a number of distinct categories, the frame can be organized into separate `strata`. Each `stratum` is then sampled as an independent subpopulation, out of which individual elements can be randomly selected.  
+Every stratum has same chance of being selected.
+
+Using the same sampling fraction for all strata ensures proportionate representation in the sample.  
+Adequate representation of minority subgroups of interest can be ensures by stratification & varying sampling fraction between strata as required.
+
+Finally, since each stratum is treated as an independent population different sampling approaches can be applied to different strata.
+
+**Drawbacks**
+
+- First, sampling frame of entire population has to be prepared separately for each stratum
+- Second, whn examining multiple criteria, stratifying variables may be related ro some, but not others, further complicating the design, and potentially reducing the utility of th strata.
+- Finally, in some cases (such as designs with a large number of strata, or those with a specified minimum sample size per group), stratifies sampling can potentially require a large sample than other methods would.
+
+#### Cluster Sampling
+
+`Cluster sampling` is an example of 'two-stage sampling'
+
+- First stage of sample of areas is chosen
+- Second stage of sample of respondents within those areas is selected.
+- Population divided into clusters of homogeneous units, usually based on geographical contiguity.
+- Sampling units are groups rather than individuals
+- A sample of such clusters is then selected
+- All units from teh selected clusters are studied
+
+**Advantages**
+
+1. Cuts down the cost of preparing a sampling frame
+2. This can reduce travel and other administrative costs
+
+**Disadvantages**
+
+1. Sampling error is higher for a simple random sample of the same size
+
+Often used to evaluate vaccination coverage in a given area.
+
+**Identification of clusters**
+
+1. List all cities, towns, villages & wards of cities with their population in target area under study
+2. Calculate the cumulative population & divide by 30, this gives sampling interval
+3. Select a random no. less than or equal to sampling interval having same no. of digits. This forms the same cluster.
+4. $Random\ no. + sampling\ interval = population\ of \ 2^{nd} cluster$
+5. $Second\ cluster + sampling\ interval = 4^{th cluster}$
+6. $Last\ or\ 30^{th}\ cluster = 29^{th} interval$
+
+Two Types of cluster sampling methods  
+`One-stage sampling`. All of the elements selected are included in the sample.  
+`Two-stage sampling`. A subset of elements selected clusters are randomly selected for inclusion i the sample.
+
+**Difference between Strata and Clusters**  
+Although strata and clusters are both _non-overlapping subsets_ of the population, they differ in several ways:
+
+| Strata                                                                                    | Cluster                                                                               |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| All strata represented in the sample                                                      | Only a subset of clusters are in the sample                                           |
+| The best survey results occur when elements within strata are internally **homogeneous**. | The best results occur when elements within clusters are internally **heterogeneous** |
+
+### Non-Probability Sampling
+
+Non-probability sampling includes:
+
+- Accidental Sampling
+- Quota Sampling
+- Purposive Sampling
+
+In addition, non-response effects may turn any probability design into a non-probability design if the characteristics of non-response are not well understood, since non-response effectively modifies each element's probability of being sampled.
+
+Any sampling method where some elements of population have no chance of selection (these are sometimes referred to as 'out of coverage/undercover'), or where the probability of selection can't be accurately determined.  
+It involves the selection of elements based on assumptions regarding the population of interest, which forms the criteria for selection. Hence, because the selection of elements is non-random, non-probability sampling does not allow the estimation of sampling errors.
+
+#### Quota Sampling
+
+The population is first segmented into _mutually exclusive_ sub-groups, just as in _stratified sampling_.  
+Then judgement used to select select subjects or units from each segment based on a specified proportion.
+
+For example, an interviewer may be told to sample 200 females and 300 males between the age of 45 and 60
+
+It is the this second step which makes the technique one of non-probability sampling.
+
+For example, the interviewer might be tempted to interview those who look most helpful. The problem is that these samples may be _biased_ because not everyone gets a chance of selection.  
+This random element is its greatest weakness and quota versus probability sampling has been a matter of controversy for many years.
+
+#### Convenience Sampling
+
+Sometimes known as **grab** or **opportunity sampling** or **accident sampling**.  
+A type of non-probability sampling which involves the sample being drawn from that part of the population which is close to hand. That is, _readily available and convenient_.  
+The researcher using such a sample cannot specifically make generalizations about the total population from this sample because it would not be representative enough.
+
+For example, if the interviewer was to conduct a survey at a shopping center early in the morning in a given day, the people that he.she could interview would be limited to those given there at that given time, which would represent the views of those members of society in such an area, if the survey was to be conducted at different times of day and several times per week.
+
+This type of sampling is most useful for testing
+
+In
+
+#### Purposive or Judgemental Sampling
+
+The researcher chooses the sample based on who they think would be appropriate for the study. This is used primarily when there is a limited number of people that have expertise in the area being researched.
+
+## Measurement and Scaling
+
+`Measurement` means assigning number or other symbols to characteristics of objects according to certain pre-specified rules.  
+We measure not the no the object but some characteristics of it. Thus, we do not measure consumers, only their perceptions, attitudes, preferences or other relevant characteristics.
+
+`Scaling` may be considered an extension of measurement. Scaling involves creating a continuum upon which measured objects are located.  
+Scaling is a process of placing the respondents on a continuum with respect to their attitude towards banks.  
+In our example, scaling is the process by which respondents would be classified as having unfavourable, neutral or positive attitude.
+
+There are 4 types of scales :
+
+- non-metric
+  - nominal
+  - ordinal
+- metric
+  - interval
+  - ratio
+
+First two are non-metric, the other two are metric
+
+#### Nominal Scale
+
+A `nominal scale` is a figurative labelling scheme (plan) in which the numbers serve only as labels for identifying and classifying objects.
+
+For example, the numbers assigned to the respondents in a study constitute a nominal scale, thus a female respondent may be assigned a number 1 and a male respondent 2.
